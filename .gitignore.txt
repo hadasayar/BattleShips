@@ -1,0 +1,10 @@
+# Ignore compiled files
+*.dll
+*.exe
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+/bin/
+/obj/
